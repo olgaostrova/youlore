@@ -1,0 +1,14 @@
+{
+  "name": "youlore",
+  "version": "1.0.0",
+  "description": "youlore is a new platform for fans and fanfics ",
+  "main": "index.js",
+  "author": "Olga Ostroverkh",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
